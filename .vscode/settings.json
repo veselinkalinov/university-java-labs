@@ -24,5 +24,6 @@
     },
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
-    "code-runner.ignoreSelection": true
+    "code-runner.ignoreSelection": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }

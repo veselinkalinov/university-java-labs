@@ -5,6 +5,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Study.DeliveryCompany.Main",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Sem.Sem_2.ObrabotkaNaPlashtania.Main",
             "projectName": "PNPE"
         },
