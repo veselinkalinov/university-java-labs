@@ -90,7 +90,9 @@ public class Test {
 
             } else {
                 System.out.println("Nevaliden izbor.");
+                break;
             }
+            scanner.close();
         }
     }
 }
