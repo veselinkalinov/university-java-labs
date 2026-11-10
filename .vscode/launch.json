@@ -5,6 +5,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Study.Session_3.StudentManagementSystem.Main",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Study.Session_2.CustomExceptions.Main",
             "projectName": "PNPE"
         },
