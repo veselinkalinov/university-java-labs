@@ -1,7 +1,6 @@
 package Sem.Sem_4.Zadacha_01;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,7 +8,7 @@ public class Main {
 
         List<Integer> evenNumbers = list.stream()
                 .filter(n -> n % 2 == 0)
-                .collect(Collectors.toList());
+                .toList();
 
         System.out.println(evenNumbers);
     }
