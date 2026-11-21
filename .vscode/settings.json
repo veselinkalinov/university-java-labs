@@ -25,5 +25,6 @@
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.ignoreSelection": true,
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
