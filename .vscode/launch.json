@@ -5,6 +5,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Study.Session_7.UniqueStudents.Main",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Study.Session_7.Main",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Lab.Lab_8.App",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Study.Session_6.regex.Main",
             "projectName": "PNPE"
         },
